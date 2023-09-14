@@ -1,6 +1,5 @@
 # Weather App
-
-- This App is a simple web application which allows users to retrieve real time weather information of any city or country. It fetch the data from OpenWeatherMap API and display the real time data in usere friendly environment
+This App is a simple web application which allows users to retrieve real time weather information of any city or country. It fetch the data from OpenWeatherMap API and display the real time data in usere friendly environment
 
 ## Technologies Used
 
